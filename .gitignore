@@ -1,0 +1,8 @@
+# directories
+node_modules
+
+# files
+.env
+package-lock.json
+yarn.lock
+yarn-debug.log
